@@ -1,3 +1,3 @@
 # opitcs
 lab
-athore: shiv ganesh
+Author: shiv ganesh
